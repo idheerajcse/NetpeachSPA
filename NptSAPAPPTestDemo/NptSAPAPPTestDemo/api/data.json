@@ -1,0 +1,138 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(1)",
+          "etag": "W/\"2\"",
+          "type": "Microsoft.SharePoint.DataService.UserRegistrationItem"
+        },
+        "ContentTypeID": "0x0100C651CACFCC492E4AA78B94C33519BB21",
+        "Title": "Netpeach Technology",
+        "Name": "Digamber Hampa",
+        "Email": "ddhampa113@gmail.com",
+        "Password": "**********",
+        "Address": "D.D.Hampa\r\nBegumpet\r\nHyderabad.",
+        "Gender": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(1)/Gender"
+          }
+        },
+        "GenderValue": "Male",
+        "PhoneNo": 9538147847,
+        "Id": 1,
+        "ContentType": "Item",
+        "Modified": "/Date(1444230431000)/",
+        "Created": "/Date(1444219542000)/",
+        "CreatedBy": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(1)/CreatedBy"
+          }
+        },
+        "CreatedById": 1,
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(1)/ModifiedBy"
+          }
+        },
+        "ModifiedById": 1,
+        "Owshiddenversion": 2,
+        "Version": "1.0",
+        "Attachments": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(1)/Attachments"
+          }
+        },
+        "Path": "/Lists/UserRegistration"
+      },
+      {
+        "__metadata": {
+          "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(4)",
+          "etag": "W/\"1\"",
+          "type": "Microsoft.SharePoint.DataService.UserRegistrationItem"
+        },
+        "ContentTypeID": "0x0100C651CACFCC492E4AA78B94C33519BB21",
+        "Title": "Netpeach SPA",
+        "Name": "Dheerajkumar",
+        "Email": "dheeraj@gmail.com",
+        "Password": "1234567890",
+        "Address": "Dheerajkumar Netpeach Technology\r\nBegumpet \r\nHyderabad",
+        "Gender": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(4)/Gender"
+          }
+        },
+        "GenderValue": "Male",
+        "PhoneNo": 1231231231,
+        "Id": 4,
+        "ContentType": "Item",
+        "Modified": "/Date(1444392186000)/",
+        "Created": "/Date(1444392186000)/",
+        "CreatedBy": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(4)/CreatedBy"
+          }
+        },
+        "CreatedById": 1,
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(4)/ModifiedBy"
+          }
+        },
+        "ModifiedById": 1,
+        "Owshiddenversion": 1,
+        "Version": "1.0",
+        "Attachments": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(4)/Attachments"
+          }
+        },
+        "Path": "/Lists/UserRegistration"
+      },
+      {
+        "__metadata": {
+          "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(5)",
+          "etag": "W/\"1\"",
+          "type": "Microsoft.SharePoint.DataService.UserRegistrationItem"
+        },
+        "ContentTypeID": "0x0100C651CACFCC492E4AA78B94C33519BB21",
+        "Title": "Netpeach Single Page Application",
+        "Name": "Atul",
+        "Email": "atul@gmail.com",
+        "Password": "7894561235",
+        "Address": "Atul\r\nHyderabad",
+        "Gender": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(5)/Gender"
+          }
+        },
+        "GenderValue": "Male",
+        "PhoneNo": 1234567891,
+        "Id": 5,
+        "ContentType": "Item",
+        "Modified": "/Date(1444392253000)/",
+        "Created": "/Date(1444392253000)/",
+        "CreatedBy": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(5)/CreatedBy"
+          }
+        },
+        "CreatedById": 1,
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(5)/ModifiedBy"
+          }
+        },
+        "ModifiedById": 1,
+        "Owshiddenversion": 1,
+        "Version": "1.0",
+        "Attachments": {
+          "__deferred": {
+            "uri": "http://122.169.249.115:8080/_vti_bin/listdata.svc/UserRegistration(5)/Attachments"
+          }
+        },
+        "Path": "/Lists/UserRegistration"
+      }
+    ]
+  }
+}
